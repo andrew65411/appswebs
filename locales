@@ -1,0 +1,12 @@
+{
+  "categories": "Categories",
+  "newCategory": "New Category",
+  "editCategory": "Edit Category",
+  "name": "Name",
+  "description": "Description",
+  "save": "Save",
+  "cancel": "Cancel",
+  "edit": "Edit",
+  "delete": "Delete",
+  "noCategoriesFound": "No categories found."
+}
